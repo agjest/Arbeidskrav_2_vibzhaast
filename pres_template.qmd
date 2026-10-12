@@ -74,12 +74,17 @@ Some text first. Then whole list
 ## In practice: What can our tools do?
 
 - 1 **What tools can do** (visible issues)
+
   1.  Code = transparency and reproducibility (R, Quarto)
   2.  Explicit mapping (ggplot)
+
 - 2 **What tools cannot do** (invisible issues)
+
   1.  Code can be perfect, but data can be false
   2.  Defaults cannot automate good judgment
+
 - 3 **The AI challenge**
+
   1.  Producing a chart is alomst free
   2.  A nice look tells us verry little
   3.  Issues with trust (they struggle to say "I don't know)
