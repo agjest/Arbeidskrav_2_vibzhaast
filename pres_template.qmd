@@ -59,16 +59,37 @@ Incremental point list
 - neste
 :::
 
-## Problem
+## Three ways to break a promise
 
-Some text first. Then whole list
+::: incremantal
+1.  Bad taste
+2.  Bad perception
+3.  Bad data
+:::
 
-::: fragment
-- 1
-  1.  en
-  2.  to
-  3.  tre
-- 2
+## Bad taste
+
+::: incremantal
+![](images/Skjermbilde%202026-10-11%20140351-01.png){fig-align="center"
+width="20cm"}
+:::
+
+## Bad perception
+
+::: incremantal
+![](images/Skjermbilde%202026-10-11%20190527.png){fig-align="center"
+width="17cm"}
+
+![](images/Skjermbilde%202026-10-11%20191924.png){fig-align="center"
+width="17cm"}
+:::
+
+## Bad data {.center}
+
+::: {layout-ncol="2" layout-valign="center"}
+![](images/Skjermbilde%202026-10-11%20183918.png){height="450px"}
+
+![](images/Skjermbilde%202026-10-11%20184820.png){height="450px"}
 :::
 
 ## In practice
