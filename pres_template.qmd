@@ -92,18 +92,29 @@ width="17cm"}
 ![](images/Skjermbilde%202026-10-11%20184820.png){height="450px"}
 :::
 
-## In practice
+## In practice: What can our tools do?
 
-Some text first. Then whole list
-
-::: fragment
-- 1
-  1.  en
-  2.  to
-  3.  tre
-- 2
-:::
+- 1 **What tools can do** (visible issues)
+  1.  Code = transparency and reproducibility (R, Quarto)
+  2.  Explicit mapping (ggplot)
+- 2 **What tools cannot do** (invisible issues)
+  1.  Code can be perfect, but data can be false
+  2.  Defaults cannot automate good judgment
+- 3 **The AI challenge**
+  1.  A nice look tells us verry little
+  2.  Issues with trust (they struggle to say "I don't know)
 
 ## Conclusions
 
+Three key points:
+
+- 1: **Know your claim** - verify that data support it
+- 2: **Show uncertainty** - don't hide variability
+- 3: **Share code anddata** - make your work verifiable
+
+A trustworthy visualization doesn't promise more than the data can
+support.
+
 ## References
+
+:::
