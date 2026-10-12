@@ -94,27 +94,38 @@ width="17cm"}
 
 ## In practice: What can our tools do?
 
-- 1 **What tools can do** (visible issues)
-  1.  Code = transparency and reproducibility (R, Quarto)
-  2.  Explicit mapping (ggplot)
-- 2 **What tools cannot do** (invisible issues)
-  1.  Code can be perfect, but data can be false
-  2.  Defaults cannot automate good judgment
+- 1 **What our tools can do**
+  1.  Code ensures transparency and reproducibility (R, Quarto)
+  2.  We build on a chain of trust (packages & honest people)
+- 2 **What our tools cannot do** (invisible issues)
+  1.  Flawless code can still draw misleading data
+  2.  Software cannot automate good judgment
 - 3 **The AI challenge**
-  1.  A nice look tells us verry little
-  2.  Issues with trust (they struggle to say "I don't know)
+  1.  A nice, clean look is now effortless
+  2.  AI models *overcommit* (struggle to say *"I don't know"*)
 
-## Conclusions
+## Conclusions: the chain of trust
 
-Three key points:
+When you make a chart, you become a link in that chain. **Three
+questions to ask:**
 
-- 1: **Know your claim** - verify that data support it
-- 2: **Show uncertainty** - don't hide variability
-- 3: **Share code anddata** - make your work verifiable
+- 1: **Is my data good?** - verify that the data support the claim
+- 2: **Is my picture fair?** - avoid misleading design and truncated
+  axes
+- 3: **Do I show how sure I am** - show uncertainty and variability
 
-A trustworthy visualization doesn't promise more than the data can
-support.
+Always share your code and data so others can check. **A trustworthy
+visualization doesn't promise more than the data can support.**
 
 ## References
+
+- **Healy, Kieran (2025).** *Trustworthy Data Visualization.* Keynote at
+  posit::conf(2025).
+- **Healy, Kieran (2018).** *Data Visualization: A Practical
+  Introduction.* Princeton University Press.
+- **Hawley, Katherine (2014).** *Trust, Distrust and Commitment.* Noûs,
+  48(1), 1–20.
+- **Hawley, Katherine (2012).** *Trust: A Very Short Introduction.*
+  Oxford University Press.
 
 :::
