@@ -46,10 +46,16 @@ eval: true
 Incremental point list
 
 ::: incremental
-- one
-  1.  en
-  2.  to
-  3.  tre
+## What makes a graph trustworthy?
+
+- Trust - **commitment** (Hawley/Healy)
+- Three implicit commitments:
+  1.  **Data:** handled responsibly
+  2.  **Visuals:** fair scale, axes, proportions
+  3.  **Uncertainty:** not more certain than the evidence
+- **Definition:** honours it´s commitments, promises no more than the
+  evidence supports
+- Trust is sicial: a **chain of trust**
 - neste
 :::
 
