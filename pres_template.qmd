@@ -41,14 +41,9 @@ eval: true
 # Feel free to add more stash
 ---
 
-## Definition
-
-Incremental point list
-
-::: incremental
 ## What makes a graph trustworthy?
 
-- Trust - **commitment** (Hawley/Healy)
+- Definition: trust - **commitment** (Hawley/Healy)
 - Three implicit commitments:
   1.  **Data:** handled responsibly
   2.  **Visuals:** fair scale, axes, proportions
@@ -56,8 +51,6 @@ Incremental point list
 - **Definition:** honours it´s commitments, promises no more than the
   evidence supports
 - Trust is sicial: a **chain of trust**
-- neste
-:::
 
 ## Three ways to break a promise
 
@@ -128,4 +121,4 @@ visualization doesn't promise more than the data can support.**
 - **Hawley, Katherine (2012).** *Trust: A Very Short Introduction.*
   Oxford University Press.
 
-:::
+\:::
