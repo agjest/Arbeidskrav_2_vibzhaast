@@ -41,10 +41,6 @@ eval: true
 # Feel free to add more stash
 ---
 
-## Definition
-
-Incremental point list
-
 ::: incremental
 ## What makes a graph trustworthy?
 
@@ -118,3 +114,4 @@ support.
 ## References
 
 :::
+
