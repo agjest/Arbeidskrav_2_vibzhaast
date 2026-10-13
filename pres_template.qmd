@@ -36,6 +36,9 @@ editor_options:
     chunk_output_type: console
 abstract: |
   A short abstract describing the content of the presentation. This will only appear in the `typst` and `html document` version.
+bibliography: Arbeidskrav2.bib
+nocite: |
+  @*
 echo: true
 eval: true
 # Feel free to add more stash
