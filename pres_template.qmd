@@ -34,8 +34,8 @@ editor_options:
     wrap: 72
     canonical: true
     chunk_output_type: console
-abstract: |
-  A short abstract describing the content of the presentation. This will only appear in the `typst` and `html document` version.
+abstract: | 
+  Drawing on Kieran Healy and philosopher Katherine Hawley, trust in data visualization is about keeping commitments, not just aesthetic polish. While tools like R, ggplot and Quarto ensure reproducible woekflows, they cannot verify whether data are honest or automate good judment. As AI makes convincing graphics effortless while naturally overcommitting, trust must ultimately rest on human integrity and transparent practices. In short: a trustworthy visualization never promises more than the data can support.
 bibliography: Arbeidskrav2.bib
 nocite: |
   @*
